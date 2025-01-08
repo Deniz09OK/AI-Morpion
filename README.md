@@ -7,7 +7,7 @@ NeoMorpion est une version moderne et enrichie du jeu classique Tic-Tac-Toe. Ce 
 ✨ Fonctionnalités
 
 🖼️ Interface Graphique Intuitive : Une grille 3x3 facile à utiliser.
-     👥 Modes de Jeu :
+👥 Modes de Jeu :
 🎲 Solo contre une IA : Défiez une IA stratégique.
 👫 Multijoueur local : Jouez avec un ami en local.
 🧠 Niveaux de Difficulté pour l'IA :
